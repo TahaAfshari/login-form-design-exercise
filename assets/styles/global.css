@@ -1,0 +1,16 @@
+@import url(./style.css);
+@import url(./login.css);
+@import url(./background.css);
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html,
+body {
+    width: 98.8vw;
+    height: min-content;
+}

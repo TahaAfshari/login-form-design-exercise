@@ -1,0 +1,16 @@
+#bg-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url("../images/bg-01.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: auto;
+}
+
+#main-container {
+    background-color: rgba(255, 255, 255, 0.774);
+    overflow: auto;
+    position: absolute;
+    top: 0;
+}

@@ -1,0 +1,13 @@
+#form-container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    min-width: 300px;
+    min-height: 500px;
+    height: 95%;
+    background: hsla(280, 72%, 56%, 1);
+
+    background: linear-gradient(0deg,
+            hsla(280, 72%, 56%, 1) 0%,
+            hsla(239, 76%, 70%, 1) 100%);
+}
